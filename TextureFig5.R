@@ -8,7 +8,7 @@
 # Fig5.E
 # Fig5.F
 
-### data files for figure 5 only are too large for submission platform; can be downloaded here: https://www.dropbox.com/scl/fi/conu31lgl5epv54rlxclq/ESM.zip?rlkey=dcurlv4qp6n227zxhot3o9il9&st=q8styqs5&dl=0
+### data files can be downloaded along with code here: https://github.com/bnmtthws/Anoshina2026
 
 
 library(data.table)
